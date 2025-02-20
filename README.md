@@ -14,7 +14,10 @@ I'm a Master's student at **George Washington University**, passionate about **C
 
 🔗 **View all certifications:** [Credly Profile](https://www.credly.com/users/sanjay-v-devang)
 
-- ⚡ **Fun Fact:** I love tech discussions and exploring new cloud architectures.
+Random Fun Facts
+🌎 Traveled to the U.S. in 2024: Pursuing a Master’s degree while juggling cloud projects and research.
+🤝 Teaching Assistant: Helping students in "Cloud Computing" while building real-world cloud solutions.
+🎤 Pitch Competition Finalist: Developed and pitched NubuAI, a knowledge rediscovery tool for researchers.
 
 ---
 
@@ -40,6 +43,7 @@ I'm a Master's student at **George Washington University**, passionate about **C
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjaydevang)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://sanjayvdevang-portfolio.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanjayvdevang1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayvdevang067@gmail.com)
 
 ---
 
